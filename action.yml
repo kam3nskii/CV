@@ -1,0 +1,4 @@
+name: 'Make Docker'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
